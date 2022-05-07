@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Magda.
 
-- Informatics and Econometrics student. :dizzy:
+- :dizzy: Informatics and Econometrics student. 
 - 🌱 Learning Java and JavaScript.
 - :checkered_flag: Formula 1 fan
 - :office: Norwegian language teacher || willing to change my career path
